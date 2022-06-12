@@ -1,0 +1,14 @@
+{
+    "user":{
+        "email": "rich_user@mailinator.com",
+        "password": "12345678"
+    }, 
+    "pass_inv":{
+        "email": "rich_user@mailinator.com",
+        "password": "123"
+    },
+    "email_inv":{
+        "email": "user.com.br",
+        "password": "12345678"
+    }
+}
