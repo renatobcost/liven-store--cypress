@@ -1,6 +1,6 @@
-## 🚀 Teste de seleção Liven 🚀
+## 🚀 Teste Liven 🚀
 
-Neste projeto foram elaborados alguns teste para seleção da Liven. Mais informações encontram-se no relatório das atividades realizadas.
+Testes de cadastro e login realizados na [Liven Store](https://processos-seletivos-liven.web.app).
 
 Clique [AQUI](https://dashboard.cypress.io/projects/63vexs/runs?branches=%5B%5D&committers=%5B%5D&flaky=%5B%5D&page=1&status=%5B%5D&tags=%5B%5D&timeRange=%7B"startDate"%3A"1970-01-01"%2C"endDate"%3A"2038-01-19"%7D) para acessar o relatório dos testes em ci.
 
